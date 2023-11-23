@@ -1,9 +1,9 @@
 # Hi, 👋 i'm sour
 
-👀 I’m interested in Webdeveloping and Discord Bots <br>
-🌱 I’m currently learning Lua and some PHP <br>
+👀 I’m interested in developing Discord Bots <br>
+🌱 My Skills: HTML, CSS, JS, PHP, NODE.JS,  <br>
 📫 Contact me via Discord: sour#1234
 
 ## 🤖 Projects
 
-https://discord.gg/sourwtf
+https://discord.gg/evoke
