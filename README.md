@@ -5,4 +5,4 @@
 📫 Contact me via Discord: sour.design
 
 ## 🤖 Projects
-https://discord.gg/evoke
+https://discord.gg/fusiondev
