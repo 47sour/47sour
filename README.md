@@ -1,6 +1,6 @@
-# Hi, 👋 I'm Sour
+# Hi, 👋 I'm Damian aka (sour)
 
-I’m passionate about creating impactful brand identities and web solutions.
+I’m passionate about creating impactful brand identities.
 
 ---
 
