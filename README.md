@@ -9,7 +9,7 @@ I’m passionate about creating impactful brand identities and web solutions.
 - 🎨 Specializing in **Logo Design**, **Brand Identity** and **Web Design**  
 - 📱 Experienced in **Social Media Management** and online presence optimization  
 - 🌱 Continuously growing my skills to deliver modern, creative, and effective designs  
-- 📫 Reach out to me on Discord: `sour.design#xxxx` (bitte deine vollständige Discord-ID ergänzen)  
+- 📫 Reach out to me on Discord: `sour.design`
 
 ---
 
@@ -25,7 +25,8 @@ I’m passionate about creating impactful brand identities and web solutions.
 
 ## 🤖 Projects
 
-- [FusionDev Discord Community](https://discord.gg/fusiondev) – Join us to discuss design, branding, and more!
+- [FusionDev](https://discord.gg/fusiondev) – Join us to explore the best FiveM scripts!
+- [micnkmedia](https://discord.gg/minckmedia) – Join us to discuss design, branding, and more!
 
 ---
 
