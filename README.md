@@ -1,8 +1,40 @@
-# Hi, 👋 i'm sour
+# Hi, 👋 I'm Sour
 
-👀 I love to develop Discord Bots <br>
-🌱 My Skills: HTML, CSS, JS, PHP, NODE.JS & some LUA  <br>
-📫 Contact me via Discord: sour.design
+I’m passionate about creating impactful brand identities and web solutions.
+
+---
+
+## 👨‍💼 About Me
+
+- 🎨 Specializing in **Logo Design**, **Brand Identity** and **Web Design**  
+- 📱 Experienced in **Social Media Management** and online presence optimization  
+- 🌱 Continuously growing my skills to deliver modern, creative, and effective designs  
+- 📫 Reach out to me on Discord: `sour.design#xxxx` (bitte deine vollständige Discord-ID ergänzen)  
+
+---
+
+## 🚀 Skills
+
+| Design & Branding           | Web & Social Media           |
+|----------------------------|-----------------------------|
+| Logo Design, Brand Identity | Web Design (HTML, CSS, JS)  |
+| Adobe Photoshop, Illustrator| Social Media Management      |
+| Figma, Canva               | Content Creation & Strategy  |
+
+---
 
 ## 🤖 Projects
-https://discord.gg/fusiondev
+
+- [FusionDev Discord Community](https://discord.gg/fusiondev) – Join us to discuss design, branding, and more!
+
+---
+
+## 📈 GitHub Stats
+
+![Sour's GitHub stats](https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=radical)
+
+---
+
+Thanks for stopping by!  
+Let’s connect and build awesome brands together. 🚀
+
